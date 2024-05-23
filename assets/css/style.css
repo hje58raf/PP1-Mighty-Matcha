@@ -62,6 +62,27 @@ body {
 
 /*--Working Time--*/
 
+/* Container holding the image and the text */
+
+
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  
+.text-block {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+
+
 
 
 /*--About Us --*/
