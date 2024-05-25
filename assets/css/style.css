@@ -84,7 +84,6 @@ body {
 
 
 
-
 /*--About Us --*/
 
 #about h1 {
@@ -111,8 +110,8 @@ body {
 
 
 footer {
-    background-color: #d1e3fa;
-    color: #3066be;
+    /*background-color: #d1e3fa;
+    color: #3066be;*/
     min-height: 30px;
     margin: 0;
     padding-top: 10px;
@@ -234,4 +233,12 @@ div.gallery {
     content: "";
     display: table;
     clear: both;
+  }
+
+
+  .bg-image {
+    background-image: url("Ice_Cream_Melt_Effect_2");
+    background-color: brown;
+
+    height: 100vh;
   }
