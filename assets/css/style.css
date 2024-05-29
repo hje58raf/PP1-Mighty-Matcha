@@ -60,8 +60,7 @@ body {
 
 
 .carousel-dark > .carousel-inner > .carousel-item > img{
-    width:auto; 
-    height: 700px;
+    height: 800px;
 }
 /* Container holding the image and the text */
 
@@ -184,6 +183,8 @@ form {
 
 
 /* For larger to medium screens size from 1200px wide and down */
+
+
 @media screen and (max-width: 1200px) {
     #about {
         width: 100%;
@@ -214,6 +215,19 @@ form {
         display: none;
     }
 
+    .carousel-dark > .carousel-inner > .carousel-item > img{
+        height: 600px;
+    }
+
 }
+
+@media (max-width: 600px) {
+    .carousel-dark > .carousel-inner > .carousel-item > img{
+        width:auto; 
+        height: 400px;
+    }
+
+  }
+
 
 
