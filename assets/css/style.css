@@ -8,7 +8,7 @@
 }
 
 body {
-    padding-top: 55px;
+    padding-top: 40px;
     font-family: Lato, sans-serif;
     font-weight: 300;
     background: #FDEBE4;
@@ -58,9 +58,7 @@ body {
     color: #3066be;
 }
 
-/*--Hero image Taken from https://www.w3schools.com/css/css_image_gallery.asp and modified--*/
 
-/*--Working Time--*/
 
 /* Container holding the image and the text */
 
@@ -89,7 +87,10 @@ body {
 
 
 /*--About Us --*/
-
+.container-fluid {
+    margin-top: 0;
+    padding-top: 0;
+}
 
 #welcome{
     text-align: center;
@@ -109,8 +110,8 @@ body {
     text-align: center;
     text-transform: uppercase;
     font-weight: 700;
-    color:  white
-    padding-bottom: 15px;
+    color:  white;
+    padding-bottom:  15px;
     letter-spacing: 2px;
 }
 
@@ -144,7 +145,7 @@ body {
     font-family: 'Lato', sans-serif;
     font-weight: bold;
     color:  #3066be;
-    padding-top: 80px;
+    padding-top: 40px;
 }
 
 .center-form {
@@ -154,9 +155,10 @@ body {
     max-width: 75%;
 }
 
+
 button[type="submit"] {
     margin-top: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     color: #3066be;
     background-color: #d1e3fa;
 }
@@ -207,6 +209,7 @@ form {
     hr {
         display: none;
     }
+
 }
 
 
