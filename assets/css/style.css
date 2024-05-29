@@ -66,19 +66,23 @@ body {
 
 
 .container {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     position: relative;
   }
-  
+
   /* Bottom right text */
   
-.text-block {
+#text-block {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: black;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    font-style: italic;
+    font-size: 1.2rem;
 }
 
 
@@ -106,53 +110,6 @@ body {
     padding: 0 35px;
 }
 
-/*--Footer Copied from resume-miniproject-bootstrap4 - Code Institute - modified--*/
-
-
-footer {
-    /*background-color: #d1e3fa;
-    color: #3066be;*/
-    min-height: 30px;
-    margin: 0;
-    padding-top: 10px;
-    padding-bottom: 0;
-    bottom:0;
-}
-
-
-.social-links {
-    padding-bottom: 5px;
-}
-
-.social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
-    border-radius: 50%;
-    font-size: 15px;
-    line-height: 7px;
-    text-align: center;
-    color: #fafafa;
-    background: #3066be;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.social-links li a i:hover {
-    background: #8f8f8f;
-
-}
-
-#footer-details {
-    padding: 0;
-    text-align: center;
-}
-
-.copyright {
-    font-size: 15px;
-}
 
 
 /*--Contact  Copied from resume-miniproject-bootstrap4 - Code Institute - modified--*/
@@ -235,10 +192,3 @@ div.gallery {
     clear: both;
   }
 
-
-  .bg-image {
-    background-image: url("Ice_Cream_Melt_Effect_2");
-    background-color: brown;
-
-    height: 100vh;
-  }
