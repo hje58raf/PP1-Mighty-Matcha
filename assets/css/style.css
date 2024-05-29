@@ -59,7 +59,10 @@ body {
 }
 
 
-
+.carousel-dark > .carousel-inner > .carousel-item > img{
+    width:auto; 
+    height: 700px;
+}
 /* Container holding the image and the text */
 
 
