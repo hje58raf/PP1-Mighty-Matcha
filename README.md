@@ -157,17 +157,17 @@ Test the navigation bar collapses to give the 'hamburger' icon when the device i
 
 * Test Results
 
-![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/desktop_header.png)
+![images](/assets/images/readme/desktop_header.png)
 
-![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/mobile_hamburger_header.png)
+![images](/assets/images/readme/mobile_hamburger_header.png)
 
-![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/mobile_dropdown_header.png)
+![images](/assets/images/readme/mobile_dropdown_header.png)
 
 ## Test the Footer
 
 I placed the social media icons in the center of the footer. I tested all the links and they all worked well. The social media links each open in a separate tab.
 
-![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/footer.png)
+![images](/assets/images/readme/footer.png)
 
 
 ## Navigation Testing
@@ -181,11 +181,8 @@ When testing a page, the Name and Description fields allow input of any text whi
 
 ## About Page
 
-The About page is divided into three sections showing representative works of my daughter with which I wanted to show her skills, creativity and competencies.
+The About page introduces future customers to the company where I wanted to show all its skills, product quality, creativity and capabilities.
 
-In the first section, there are Gifs and in the second there are animations. They are divided into three columns, on a tablet into two, on a cell phone into one.
-
-In the third section are the Artworks that go from four columns to three and then to two on the cell phone.
 
 # Testing user stories
 
@@ -239,6 +236,9 @@ I would like to thank:
 * My mentor, Victor Miclovich, for his guidance, patience and encouragement throughout this project.
 * The slack community for its extensive Q&A, I found most of the answers to my problems there.
 * Thanks to everyone at the Code Institute for helping to make this such an enjoyable and rewarding experience.
+
+
+
 
 
 
