@@ -200,7 +200,7 @@ form {
     #left-about, #right-about {
         width: 100%;
         float: left;
-        padding: 10;
+        padding: 10px;
         text-align: center;
     }
 
