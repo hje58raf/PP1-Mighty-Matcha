@@ -7,7 +7,7 @@ This is the website for Mighty Matcha, a fictional new ice cream shop in Co. Dub
 
 The website is intended for people who want to buy homemade, fresh, high-quality ice cream. The website displays the products available to the user and provides the information needed to make a purchase at the ice cream shop..
 
-![Am I responsive screenshot](/assets/images/readme/Index.png)
+![Am I responsive screenshot](/assets/images/readme/responsive%20image.png)
 
 # Table of Contents
 1. [UX](#UX)
