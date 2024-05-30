@@ -2,12 +2,12 @@
 
 # Website of the manufacturer of homemade ice cream
 
-[Maoxchan Website](https://hje58raf.github.io/MS-1/)  is part of Code Institute's Milestone 1 Project: HTML/CSS Essentials. 
+[Mighty Matcha](https://hje58raf.github.io/PP1-Mighty-Matcha)  is part of Code Institute's Milestone 1 Project: HTML/CSS Essentials. 
 This is the website for Mighty Matcha, a fictional new ice cream shop in Co. Dublin. Dublin that specializes in homemade ice cream, using organic ingredients without artificial additives. The purpose of the website is to establish an online presence of the pastry shop as the main source of information for customers about the business.
 
 The website is intended for people who want to buy homemade, fresh, high-quality ice cream. The website displays the products available to the user and provides the information needed to make a purchase at the ice cream shop..
 
-![Am I responsive screenshot](/assets/images/responsive.png)
+![Am I responsive screenshot](/assets/images/readme/Index.png)
 
 # Table of Contents
 1. [UX](#UX)
@@ -21,7 +21,7 @@ The website is intended for people who want to buy homemade, fresh, high-quality
 
 ## Project goals
 
-* Making a static front-end site to present useful information to users/ recruitments, using all technologies that I have learned about so far. (HTML, CSS, Bootstrap and user experience/design)
+* Making a static front-end site to present useful information to users/ customers, using all technologies that I have learned about so far. (HTML, CSS, Bootstrap and user experience/design)
 * Creating a website that is easy to navigate and easy to understand.
 * The customer experience has to be great on every device and internet browser.
 * I am creating a website for a home-made ice cream shop to offer them a unique and enjoyable experience
@@ -47,7 +47,7 @@ taste experience
 
 ## Design
 
-I've chosen 2 primary colours for the backgrounds (#fdebe4), headings and footers (#d1e3fa). I tried to match the colors on the website with the colors used in the Maoxchan image
+I've chosen 2 primary colours for the backgrounds (#fdebe4), headings and footers (#d1e3fa). I tried to match the colors on the website with the colors used in the Mighty Matcha image
 
 ## Typography
 
@@ -133,19 +133,19 @@ As this project is designed to build a static front-end that demonstrates the sk
 
 * Home page
 
-![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/homepage_validator.png)
+![images](/assets/images/readme/Index.png)
 
 * Gallery page
 
-![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/gallery_validator.png)
+![images](/assets/images/readme/About_us.png)
 
 * Contact page
 
-![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/contact_validator.png)
+![images](/assets/images/readme/Contact.png)
 
 ### [CSS Validator](https://validator.w3.org/)
 
-![images](https://github.com/hje58raf/MS-1/blob/master/assets/images/readme/css_validator.png)
+![images](/assets/images/readme/CSS.png)
 
 ## Browser compatibility
 
